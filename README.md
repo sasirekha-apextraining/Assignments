@@ -8,3 +8,7 @@ RegisterServletWithSessionAndJSP
 
 Url to access - http://localhost:8080/RegisterServletWithSessionAndJSP/personalInfo.jsp
 
+mysite
+
+Url to access - http://localhost:8080/mysite/home.jsp
+
