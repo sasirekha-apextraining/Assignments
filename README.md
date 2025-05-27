@@ -12,3 +12,7 @@ mysite
 
 Url to access - http://localhost:8080/mysite/home.jsp
 
+RegistrationAppUsingMvc
+
+Url to access - http://localhost:8080/RegistrationAppUsingMvc/personalInfo.html
+
