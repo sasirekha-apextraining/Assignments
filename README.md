@@ -16,3 +16,7 @@ RegistrationAppUsingMvc
 
 Url to access - http://localhost:8080/RegistrationAppUsingMvc/personalInfo.html
 
+
+RegisterServletUsingSpringMvc
+
+Url to access - http://localhost:8080/RegisterServletUsingSpringMvc/personal
