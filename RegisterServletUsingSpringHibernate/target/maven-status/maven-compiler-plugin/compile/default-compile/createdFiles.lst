@@ -1,0 +1,6 @@
+com/learn/bean/User.class
+com/learn/controller/UserController.class
+com/learn/config/WebAppConfig.class
+com/learn/dao/UserDAOImpl.class
+com/learn/config/SpringInit.class
+com/learn/dao/UserDAO.class

@@ -20,3 +20,13 @@ Url to access - http://localhost:8080/RegistrationAppUsingMvc/personalInfo.html
 RegisterServletUsingSpringMvc
 
 Url to access - http://localhost:8080/RegisterServletUsingSpringMvc/personal
+
+
+RegisterServletUsingSpringHibernate
+
+Url to access - http://localhost:8080/RegisterServletUsingSpringMvc/personal
+
+
+RegisterUserUsingHibernate
+
+Run as a java application and user details will be stored in db.
