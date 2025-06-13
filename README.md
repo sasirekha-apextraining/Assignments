@@ -35,6 +35,6 @@ Run as a java application and user details will be stored in db.
 
 RegisterServletUsingSpring 
 
-	- Uses RegisterUserUsingHibernateForDAO application for DAO implementation
+Uses RegisterUserUsingHibernateForDAO application for DAO implementation
 
 Url to access - http://localhost:8080/RegisterServletUsingSpringMvc/personal
