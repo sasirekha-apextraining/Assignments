@@ -1,0 +1,4 @@
+com/learn/user/util/HibernateUtil.class
+com/learn/user/dao/UserDAO.class
+com/learn/user/client/UserClient.class
+com/learn/user/bean/User.class

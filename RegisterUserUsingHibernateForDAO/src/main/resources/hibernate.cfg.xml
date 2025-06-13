@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE hibernate-configuration PUBLIC
+    "-//Hibernate/Hibernate Configuration DTD//EN"
+    "http://www.hibernate.org/dtd/hibernate-configuration-3.0.dtd">
+
+<hibernate-configuration>
+    <!-- a SessionFactory instance listed as /jndi/name -->
+    <session-factory>
+		<property name="hibernate.dialect">org.hibernate.dialect.MySQLDialect</property>
+		<property name="hibernate.connection.driver_class">com.mysql.jdbc.Driver</property>
+		<property name="hibernate.connection.url">jdbc:mysql://localhost:3306/user</property>
+		<property name="hibernate.connection.username">root</property>
+		<property name="hibernate.connection.password">root1234</property>
+		
+		<!-- Print SQL to stdout. -->
+		<property name="show_sql">true</property>
+				
+		<!--Here we are mapping Pojo class not hbm -->
+		<mapping class="com.learn.user.bean.User" />
+    </session-factory>
+</hibernate-configuration>
